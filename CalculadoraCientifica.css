@@ -1,0 +1,30 @@
+.button{
+	width:60px;
+	height:30px;
+	color:black;
+	border-color:#E1E1E1;
+	background-color:#E1E1E1;
+}
+input{
+	width:310px;
+	height:40px;
+	background-color:#ECECEC;
+}
+h2{
+	text-align:center;
+	color:black;
+}
+.calculadora{
+	box-sizing:border-box;
+	margin-left:100px;
+	margin-right:900px;
+	color:black;
+	background-color:#ECECEC;
+	border-color:#ECECEC;
+}
+header{
+	padding:30px;
+	background:#C0C5FC;
+	text-align:center;
+	color:black;
+}
